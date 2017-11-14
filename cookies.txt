@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pro.iconosquare.com	TRUE	/	FALSE	1999999999	phpsessionname	mp9hk1rcan2mcad64j21bkgk20
+pro.iconosquare.com	TRUE	/	FALSE	1999999999	func_cookiesbanner	1
+pro.iconosquare.com	TRUE	/	FALSE	1999999999	AWSELB	D35363491E786B81BE3B960972417B26C36CEF51C5A433F270E7FC8FD01DD9D9AC3BFA8CFC258AF1E7044B8AA1DA29ED867F80C85B684A26BD1C451F7A35058C951B7BD2A8
+changeagain.me	TRUE	/	FALSE	1999999999	locale	en
+pro.iconosquare.com	TRUE	/	FALSE	1999999999	func_newresource	1
+pro.iconosquare.com	TRUE	/	FALSE	1999999999	opt_lg	en
+
